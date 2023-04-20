@@ -106,7 +106,7 @@ import (
 	"fmt"
 	"log"
 
-	"code.sajari.com/docconv"
+	"github.com/danangsigit/docconv"
 )
 
 func main() {
@@ -127,7 +127,7 @@ import (
 	"fmt"
 	"log"
 
-	"code.sajari.com/docconv/client"
+	"github.com/danangsigit/docconv/client"
 )
 
 func main() {
